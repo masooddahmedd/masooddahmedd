@@ -1,6 +1,6 @@
 # Masood Ahmed
 
-Hello there! 👋 I'm Masood Ahmed, a 17-year-old boy with a passion for AI and Data Science. I have 2 years of hands-on experience in the field of Data Science, and I've pursued homeschooling to nurture my love for technology.
+Hello there! 👋 I'm Masood Ahmed, I have 2 years of hands-on experience in the field of Data Science, and I've pursued homeschooling to nurture my love for technology.
 
 ## About Me
 
