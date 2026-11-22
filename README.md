@@ -21,6 +21,8 @@ I build AI systems and then try hard to prove myself wrong about them: held-out 
 **Roman Urdu Breaks Dense Retrieval: Script, Spelling Variation and a Transliteration Fix.** M. Ahmed, 2026. Preprint.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24384589.svg)](https://doi.org/10.5281/zenodo.24384589)
 
+All papers: [Google Scholar](https://scholar.google.com/citations?user=B428Zv8AAAAJ)
+
 ### `$ ls ~/private`
 
 Work that lives in private or client repos, so here are the numbers instead of the code:
@@ -41,6 +43,6 @@ Leading an AI squad at Walee Technologies, competing in Kaggle's *Name That LLM*
 
 ### `$ contact`
 
-[masoodd.ahmedd123@gmail.com](mailto:masoodd.ahmedd123@gmail.com) · [LinkedIn](https://www.linkedin.com/in/masoooddd/) · [Kaggle](https://www.kaggle.com/maso0dahmed) · [Zenodo](https://doi.org/10.5281/zenodo.24384589)
+[masoodd.ahmedd123@gmail.com](mailto:masoodd.ahmedd123@gmail.com) · [LinkedIn](https://www.linkedin.com/in/masoooddd/) · [Kaggle](https://www.kaggle.com/maso0dahmed) · [Google Scholar](https://scholar.google.com/citations?user=B428Zv8AAAAJ)
 
 <sub>The header is hand-written SVG: no images, no third-party widgets. Regenerate it with <code>python tools/build_hero.py</code>.</sub>
